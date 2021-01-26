@@ -23,7 +23,7 @@ struct cmd_s cmds[] = {
 	},
 	{
 		.command = "emeter",
-		.help = "emeter\t\tget realtime power consumption (only works with HS110)",
+		.help = "emeter\t\tget realtime power consumption (only works with HS110/KP115)",
 		.json = "{\"emeter\":{\"get_realtime\":{}}}",
 	},
 	{
