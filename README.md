@@ -1,6 +1,6 @@
 # hs100
 
-A tool for using TP-Link HS100/HS105/HS110 wi-fi smart plugs. You can turn
+A tool for using TP-Link HS100/HS105/HS110 and KP115 wi-fi smart plugs. You can turn
 them on and off, reboot them, and so on. You can even set them up without
 using TP-Link's app (see Initial Setup).
 
